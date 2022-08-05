@@ -22,7 +22,7 @@
                     <div class="row"> 
                         
                         <div class="col-md-3">
-                            <h1>Ingrese datos</h1>
+                            <h1>Recuerdame Lo Siguiente</h1>
                                 <form action="insertar.php" method="POST">
 
                                     <input type="text" class="form-control mb-3" name="id" placeholder="codigo nota">
